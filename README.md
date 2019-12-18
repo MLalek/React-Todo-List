@@ -1,4 +1,5 @@
 ## Published React App: 
+
 https://mlalek.github.io/React-Todo-List/
 
 
@@ -7,7 +8,7 @@ https://mlalek.github.io/React-Todo-List/
 
 
 
-## Learn More
+##Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
